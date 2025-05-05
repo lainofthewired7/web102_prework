@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgflip.com/gif/9sw4n2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://imgflip.com/gif/9sw4n2](https://imgur.com/a/wCiN5XU)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with OBS/GifMAKER  
