@@ -25,8 +25,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgflip.com/gif/9sw4n2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-OBS/GifMAKER
-GIF created with ...  
+
+GIF created with OBS/GifMAKER  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
